@@ -4,7 +4,7 @@ const pessoas = [
      { nome: "Luca", sexo: "M"},
      { nome: "Lucas", sexo: "M"},
      { nome: "Laura", sexo: "F"},
-     { nome: "Lissa", sexo: "F"},
+     { nome: "Mariana", sexo: "F"},
      {nome: "Lupan", sexo: "M"}
 ]
 
