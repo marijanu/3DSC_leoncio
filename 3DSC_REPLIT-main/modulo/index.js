@@ -7,7 +7,7 @@
 // UTILIZE O MODULO IMPORTADO 
 
 import { imprimirDadosPersoagem } from "./personagem.js";
-imprimirDadosPersoagem("Carlinhos", "Clones", 2050);
+imprimirDadosPersoagem("Jonas", "Clones", 2050);
 
 
 
