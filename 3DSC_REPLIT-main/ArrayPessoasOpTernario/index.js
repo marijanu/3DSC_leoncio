@@ -2,10 +2,10 @@
 
 const pessoas = [
      { nome: "Luca", sexo: "M"},
-     { nome: "Lucas", sexo: "M"},
-     { nome: "Laura", sexo: "F"},
+     { nome: "Henrique", sexo: "M"},
+     { nome: "Gabi", sexo: "F"},
      { nome: "Mariana", sexo: "F"},
-     {nome: "Lupan", sexo: "M"}
+     {nome: "Julia", sexo: "M"}
 ]
 
 const meninas = []
